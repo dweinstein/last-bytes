@@ -1,6 +1,6 @@
 {
   "name": "last-bytes",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Keep the last count bytes of a stream around",
   "main": "index.js",
   "scripts": {
