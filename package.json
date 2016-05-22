@@ -1,0 +1,30 @@
+{
+  "name": "last-bytes",
+  "version": "0.0.1",
+  "description": "Keep the last count bytes of a stream around",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "dweinstein",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dweinstein/last-bytes.git"
+  },
+  "keywords": [
+    "last",
+    "bytes",
+    "stream",
+    "stderr",
+    "buffer"
+  ],
+  "bugs": {
+    "url": "https://github.com/dweinstein/last-bytes/issues"
+  },
+  "homepage": "https://github.com/dweinstein/last-bytes#readme",
+  "dependencies": {
+    "bl": "^1.1.2",
+    "through2": "^2.0.1"
+  }
+}
